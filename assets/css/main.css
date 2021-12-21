@@ -346,7 +346,7 @@ input:focus::-moz-placeholder {
     text-decoration: none;
     color: #023c5a;
     font-family: "Fredoka One",cursive;
-    font-weight: 700;
+    font-weight: 500;
 }
 #slider .services-img {
     position: relative;
