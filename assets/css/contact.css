@@ -170,7 +170,7 @@ input:focus::-moz-placeholder {
 #menu #first .main-menu #nav .header-right-btn a {
     color: white;
     font-family: "Fredoka One",cursive;
-    font-weight: 700;
+    font-weight: 500;
 }
 #menu .hero-caption {
     width: 80%;
@@ -181,7 +181,7 @@ input:focus::-moz-placeholder {
     color: #023C5A;
     margin-top: 50px;
     font-size: 54px;
-    font-weight: 900;
+    font-weight: 500;
 }
 #menu .hero-caption p {
     color: #023C5A;
@@ -502,7 +502,7 @@ footer .footer-area .footer-tittle ul li:hover a {
 footer .footer-area .footer-tittle h4 {
     margin-bottom: 30px;
     font-family: "Fredoka One",cursive;
-    font-weight: 900;
+    font-weight: 500;
 }
 footer i {
     color: #212529;

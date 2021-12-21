@@ -166,7 +166,7 @@ input:focus::-moz-placeholder {
 #menu #first .main-menu #nav .header-right-btn a {
     color: white;
     font-family: "Fredoka One",cursive;
-    font-weight: 700;
+    font-weight: 500;
 }
 #menu #about {
     width: 80%;
@@ -179,12 +179,13 @@ input:focus::-moz-placeholder {
 #menu #about h1{
     font-size: 70px;
     font-family: "Fredoka One",cursive;
-    font-weight: 900;
+    font-weight: 500;
     color: #023c5a;
 }
 #menu #about p {
-    font-family: "Fredoka One",cursive;
+    font-family: "DM Sans",sans-serif;
     font-size: 25px;
+    font-weight: normal;
 }
 #menu #about .hero-btn {
     width: 200px;
@@ -220,7 +221,7 @@ input:focus::-moz-placeholder {
 }
 #menu #about .pets-contact h2{
     font-size: 20px;
-    font-weight: 900;
+    font-weight: 400;
     font-family: "Fredoka One",cursive;
     margin: 0 10px;
 }
@@ -317,7 +318,7 @@ input:focus::-moz-placeholder {
     font-size: 44px;
     color: #023c5a;
     font-family: "Fredoka One",cursive;
-    font-weight: 900;
+    font-weight: 500;
     margin: 50px 0;
 }
 #slider .services-active {
@@ -453,7 +454,7 @@ input:focus::-moz-placeholder {
 }
 #about-video .selection-left .features-caption h3 {
     font-family: "Fredoka One",cursive;
-    font-weight: 700;
+    font-weight: 500;
     color: white;
 }
 #about-video .container .section-tittle {
@@ -464,7 +465,7 @@ input:focus::-moz-placeholder {
 #about-video .container .section-tittle h2{
     font-size: 44px;
     font-family:"Fredoka One",cursive ;
-    font-weight: 900;
+    font-weight: 500;
     color: #023c5a;
     margin-bottom: 50px;
 }
@@ -520,7 +521,7 @@ input:focus::-moz-placeholder {
 #time .main-time h5{
     font-size: 30px;
     font-family:"Fredoka One",cursive ;
-    font-weight: 900;
+    font-weight: 500;
     color: #023c5a;
     margin: 10px 30px;
     text-decoration: none;
@@ -528,6 +529,7 @@ input:focus::-moz-placeholder {
 }
 #time .main-time h5 a {
     text-decoration: none;
+    color: #023c5a;
 }
 #time .main-time .loan-btn {
     width: 200px;
@@ -590,7 +592,7 @@ input:focus::-moz-placeholder {
 #testimonial-area .testimonial-area-main .testimonial-top-cap p{
     font-size: 30px;
     font-family:"Fredoka One",cursive ;
-    font-weight: 900;
+    font-weight: 500;
     color: #023c5a;
     margin: 30px 0;
 
@@ -599,11 +601,11 @@ input:focus::-moz-placeholder {
     font-family: "DM Sans",sans-serif;
     color: #0094DF;
     font-size: 22px;
-    font-weight: 700;
+    font-weight: 500;
 }
 #testimonial-area .testimonial-area-main .testimonial-founder p {
     color: #57667e;
-    font-weight: 500;
+    font-weight: 300;
 }
 #contact-wrappers {
     width: 100%;
@@ -617,7 +619,7 @@ input:focus::-moz-placeholder {
     font-size: 44px;
     font-family: "Fredoka One",cursive;
     margin-bottom: 15px;
-    font-weight: 900;
+    font-weight: 500;
     color: #fff;
 }
 #contact-wrappers .container p {
@@ -786,7 +788,7 @@ footer .footer-area .footer-tittle ul li:hover a {
 footer .footer-area .footer-tittle h4 {
     margin-bottom: 30px;
     font-family: "Fredoka One",cursive;
-    font-weight: 900;
+    font-weight: 500;
 }
 footer i {
     color: #212529;
