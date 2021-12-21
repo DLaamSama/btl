@@ -70,6 +70,7 @@ input:focus::-moz-placeholder {
     width: 80%;
     height: auto;
     margin: 0 auto;
+    margin-top: 100px;
 }
 #header {
     width: 100%;
@@ -283,6 +284,7 @@ input:focus::-moz-placeholder {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     margin: 0 auto;
+    margin-bottom: 100px;
 
 }
 #row .boxed-btn {
@@ -527,8 +529,14 @@ footer .footer-bottom-area i {
 }
 footer .footer-tittle ul{
     padding: 0;
+}    #menu .main-menu #nav li a{
+    margin: 0 12px; 
 }
-
+@media screen and (max-width: 1024px ) {
+    #menu .main-menu #nav li a{
+        margin: 0 12px; 
+    }
+}
 @media screen and (max-width: 768px ){
     #menu .main-menu #nav {
         display: none;
